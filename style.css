@@ -7,6 +7,10 @@ body {
   line-height: 1.6;
 }
 
+.header-info p a {
+  color: #fff;
+}
+
 header {
   background: #333;
   color: #fff;
